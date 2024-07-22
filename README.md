@@ -1,1 +1,1 @@
-Classification of the CIFAR 100 dataset using a deep learning approach. Contains multiple experiments for determining numberinc values of different hyperparameters and how they impact model performance. Does not currently implement data (image augmentation)
+Classification of the CIFAR 100 dataset using a deep learning approach. Contains multiple experiments for determining numeric values of different hyperparameters and how they impact model performance. Does not currently implement data (image) augmentation.
